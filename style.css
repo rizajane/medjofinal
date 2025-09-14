@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #d8def6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: serif;
+    
+}
+.mingyu{
+    width: 160px;
+    height: 160px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 100px;
+    animation-delay: 0.5s;
+    text-align: center;
+
+}
+.qoute{
+    text-align: center;
+    color: #333;
+    font-size: 16px;
+    margin-bottom: 3px;
+}
+.author{
+    margin-top: 10px;
+    font-weight: bold;
+    color: #444;
+}
+
+.bebe{
+      margin-bottom: 500px;
+      align-items: left;
+      margin-left: 650px;
+    }

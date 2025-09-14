@@ -1,0 +1,75 @@
+body {
+      background-color: #e8eaf6;
+      font-family: 'italianno, instrumental serif';
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .signup-container {
+      background-color: #d8def6;
+      padding: 30px;
+      border-radius: 20px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.2);
+      width: 300px;
+      text-align: center;
+    }
+
+    .logo {
+      width: 70px;
+      margin-bottom: 10px;
+      text-align: left;
+
+    }
+
+    h1 {
+      font-family: 'italianno';
+      font-size: 28px;
+      color: #333;
+      margin-bottom: 25px;
+    }
+
+    input[type="text"],
+    input[type="email"],
+    input[type="password"] {
+      width: 100%;
+      padding: 12px;
+      margin: 10px 0;
+      border-radius: 10px;
+      border: 1px solid #ccc;
+      background-color: #f8f6fc;
+      font-family: 'instruemntal serif';
+    }
+
+    .signup-btn {
+      width: 100%;
+      background-color: #b266ff;
+      color: white;
+      font-weight: bold;
+      padding: 12px;
+      margin-top: 15px;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+      font-family: 'instrumental serif';
+    }
+
+    .signup-btn:hover {
+      background-color: #9b4ce3;
+    }
+
+    .login-link {
+      margin-top: 15px;
+      font-size: 14px;
+      font-family: 'instruemntal serif';
+    }
+
+    .login-link a {
+      color: #6a1b9a;
+      text-decoration: none;
+    }
+
+    .login-link a:hover {
+      text-decoration: underline;
+    }

@@ -1,0 +1,57 @@
+body {
+      background-color: #e6e6fa;
+      font-family: "italianno, instrumental serif ";
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .container {
+      background: #d8def6;
+      padding: 30px;
+      border-radius: 20px;
+      text-align: center;
+      box-shadow: 0 0 15px rgba(0,0,0,0.2);
+      width: 300px;
+    }
+    .love{
+        font-family:"italianno";
+
+    }
+    input, button {
+      width: 100%;
+      padding: 10px;
+      margin: 8px 0;
+      border-radius: 10px;
+      border: 1px solid #ccc;
+      font-family: 'instrumental serif';
+      background-color: #fff2f2;
+    }
+    button {
+      background-color: #b266ff;
+      color: white;
+      border: none;
+      font-weight: bold;
+      font-family: 'instrumental serif';
+    }
+    .options {
+      display: flex;
+      justify-content: space-between;
+      font-size: 12px;
+      width: 3x;
+      font-family: 'instrumental serif';
+    }
+    .register-link {
+      margin-top: 10px;
+      font-size: 14px;
+      font-family: 'instrumental serif';
+    }
+    .register-link a {
+      color: #6a0dad;
+      text-decoration: none;
+    }
+    img {
+      height: 70px;
+    }
+
+    
